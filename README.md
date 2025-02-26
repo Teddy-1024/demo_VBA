@@ -4,7 +4,7 @@ Import, process, export, and style data from external workbooks. This project is
 
 # Gallery
 Merged sales log worksheet    
-![Merged sales log worksheet](docs/MergedResult.png)
+![Merged sales log worksheet](docs/MergedWorksheet.png)
 
 
 # License
